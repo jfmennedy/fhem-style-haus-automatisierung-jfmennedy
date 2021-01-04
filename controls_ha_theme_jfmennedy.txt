@@ -12,7 +12,7 @@ UPD 2020-12-25_17:48:50 2727 www/images/hausautomatisierung_com/plug.svg
 UPD 2020-12-25_17:48:50 2274 www/images/hausautomatisierung_com/tv.svg
 UPD 2020-12-25_17:48:50 6623 www/images/hausautomatisierung_com/weather.svg
 UPD 2021-01-01_10:28:54 10259 www/pgm2/hausautomatisierung_com-jfmennedy.js
-UPD 2021-01-01_10:13:20 5560 www/pgm2/hausautomatisierung_com-jfmennedyfloorplanstyle.css
+UPD 2021-01-01_10:13:20 5580 www/pgm2/hausautomatisierung_com-jfmennedyfloorplanstyle.css
 UPD 2020-12-29_08:37:48 4401 www/pgm2/hausautomatisierung_com-jfmennedysvg_style.css
 UPD 2020-12-29_09:00:54 37659 www/pgm2/hausautomatisierung_com-jfmennedystyle.css
 UPD 2020-12-25_17:48:57 2996 www/pgm2/hausautomatisierung_com-jfmennedysvg_defs.svg
