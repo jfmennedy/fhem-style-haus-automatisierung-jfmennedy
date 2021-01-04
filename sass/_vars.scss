@@ -1,0 +1,35 @@
+$brightest-background: #fff;
+
+$primary-color: #e56524;
+$primary-color-lt: #676f7a;
+$primary-color-dk: #25689e;
+
+$secondary-color: #676f7a;
+$odd-color: #f5f6f9;
+
+$default-fontsize: 13px;
+$large-fontsize: 16px;
+
+@mixin button {
+    border: 1px $primary-color solid;
+    border-radius: 0;
+    color: $primary-color;
+    padding: 1px 10px;
+    background: transparent;
+    font-size: $large-fontsize;
+}
+
+@mixin button-large {
+    @include button;
+    height: 24px;
+}
+
+@mixin textfield {
+    border: 1px $primary-color solid;
+    color: #555;
+    background: transparent;
+    font-size: $large-fontsize;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
