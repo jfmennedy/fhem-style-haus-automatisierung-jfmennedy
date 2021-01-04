@@ -1,4 +1,4 @@
-<!-- will be included in each svg plot -->
+<!-- will be included in each svg plot --> 
 <defs>
   <linearGradient id="gr_bg" x1="0%" y1="0%" x2="0%" y2="100%">
     <stop offset="0%"   style="stop-color:#FFFFF7; stop-opacity:1"/>
