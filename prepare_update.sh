@@ -2,7 +2,7 @@
 
 rm controls_ha_theme_jfmennedy.txt
 
-echo "MOV ./www/hausautomatisierung-com/custom.js unused" >> controls_ha_theme_jfmennedy.txt
+echo "MOV ./www/hausautomatisierung-com-jfmennedy/custom.js unused" >> controls_ha_theme_jfmennedy.txt
 
 find ./www -type f \( ! -iname ".*" \) -print0 | while IFS= read -r -d '' file;
 do
